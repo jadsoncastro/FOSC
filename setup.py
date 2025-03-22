@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="FOSC",
-    version="0.1.0a1",
+    version="0.1.1a1",
     packages=find_packages(),
     install_requires=[
         "matplotlib==3.8.2",
