@@ -7,7 +7,7 @@ Welcome to FOSC's documentation!
 ================================
 
 FOSC is the Framework for Semi-Supervised and Unsupervised Optimal Extraction of Clusters
-from Hierarchies proposed by Campello et al. 2013.
+from Hierarchies proposed by [Campello2013]_.
 
 Here you will find the documentation for the FOSC package, which includes the FOSC implementation
 and a visualization tool.
@@ -35,3 +35,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Reference
+=========
+
+.. [Campello2013] CAMPELLO, R. J.; MOULAVI, D.; ZIMEK, A.; SANDER, J. A framework for semi-supervised and unsupervised optimal extraction of clusters from hierarchies. Data Mining and Knowledge Discovery, Springer, v. 27, p. 344–371, 2013.
