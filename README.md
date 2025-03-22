@@ -1,5 +1,5 @@
 # FOSC
-A Python version of the Framework for optimal extraction of clusters (FOSC).
+A Python version of the Framework for optimal extraction of clusters (FOSC) (CAMPELLO et al., 2013) [1].
 
 > **Note:**
 > This is a test version and may contain bugs. If you notice anything wrong, please contact the developers.
@@ -64,3 +64,6 @@ Plot.plotSilhouette(foscFramework, partition)
 Plot.plotReachability(foscFramework, partition)
 ```
 
+## References
+
+[1] CAMPELLO, R. J.; MOULAVI, D.; ZIMEK, A.; SANDER, J. A framework for semi-supervised and unsupervised optimal extraction of clusters from hierarchies. Data Mining and Knowledge Discovery, Springer, v. 27, p. 344–371, 2013.
