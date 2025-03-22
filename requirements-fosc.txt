@@ -1,0 +1,6 @@
+matplotlib==3.8.2
+mplcursors==0.5.3
+networkx==3.2.1
+numpy==1.26.2
+scipy==1.11.4
+typing_extensions==4.12.2
